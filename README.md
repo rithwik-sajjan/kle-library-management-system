@@ -1,20 +1,54 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 📚 TERMINAL — Digital Library System
+<img width="1200" height="900" alt="collage" src="https://github.com/user-attachments/assets/bdbcc0b5-350b-45f2-8fba-baba7c61b2bb" />
 
-# Run and deploy your AI Studio app
+> Proprietary digital environment for academic archives, smart indexing, and institutional access management.
 
-This contains everything you need to run your app locally.
+![Library System Banner](./assets/banner.png)
 
-View your app in AI Studio: https://ai.studio/apps/3981e1f0-c390-40ae-8892-8fe07ffdbe5b
+---
 
-## Run Locally
+## 🧠 Overview
 
-**Prerequisites:**  Node.js
+**TERMINAL** is a modern digital library platform designed for universities, research centers, and high-performance academic infrastructures.
 
+It provides:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 🔐 Biometric User Authentication
+- ⚡ Smart Indexing Engine
+- 📁 Digital Collections Management
+- 👨‍🏫 Staff Verification System
+- ☁️ Cloud Infrastructure & SRE
+- 📊 Real-time Archive Metrics
+
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| Biometric Auth | Enhanced encryption for secure institutional access |
+| Smart Indexing | AI-powered search & categorization engine |
+| Digital Collections | Organized archive management system |
+| Staff Verification | Verified internal access controls |
+| Instant Connection | 24/7 high-speed availability |
+| Low Latency | Optimized response time (~50ms) |
+
+---
+
+## 🏗️ System Architecture
+
+```bash
+library-system/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── services/
+│   ├── assets/
+│   └── styles/
+│
+├── database/
+├── api/
+├── README.md
+└── package.json
